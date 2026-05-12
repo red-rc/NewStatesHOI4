@@ -1,0 +1,33 @@
+state={
+	id=76
+	name="STATE_76"
+	provinces={
+		711 727 3689 6711 6714 6731 9668 9670 9672 9685 9704 11676 
+	}
+	manpower=1632700
+	history = {
+		owner = ROM
+		add_core_of = ROM
+		add_core_of = TRA
+
+		victory_points = {
+			6711 5 
+		}
+
+		victory_points = {
+			9672 2 
+		}
+
+		victory_points = {
+			9670 1 
+		}
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+	}
+	buildings_max_level_factor=1
+	state_category=town
+	local_supplies=9
+}

@@ -1,0 +1,26 @@
+state={
+	id=1051
+	name="STATE_1051"
+	provinces={
+		3488 
+	}
+	manpower=32000
+	state_category = town
+
+	history = {
+
+		owner = BEL
+		add_core_of = BEL
+		add_core_of = GER
+
+		buildings = {
+			infrastructure = 2
+
+			# Gileppe Dam
+			3488 = { dam = 1 }
+		}
+		
+	}
+	buildings_max_level_factor=1
+	local_supplies=14.0
+}

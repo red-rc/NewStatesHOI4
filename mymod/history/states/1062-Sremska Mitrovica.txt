@@ -1,0 +1,23 @@
+
+state={
+	id=1062
+	name="STATE_1062" # Sremska Mitrovica
+	manpower = 55000
+	
+	state_category = town
+
+	history={
+		owner = YUG
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = YUG
+		add_core_of = SER
+	}
+
+	provinces={
+		11577 11580
+	}
+
+	local_supplies=0.0 
+}

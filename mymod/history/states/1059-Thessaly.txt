@@ -1,0 +1,23 @@
+state={
+	id=1059
+	name="STATE_1059"
+	provinces={
+		863 3864 3973 6930 11786 9916 
+	}
+	manpower=655246
+		history={
+		owner = GRE
+		victory_points = {
+			3973 3
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 3
+		}
+		add_core_of = GRE
+	}
+	state_category=city
+	buildings_max_level_factor=1
+	local_supplies=0
+}

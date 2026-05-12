@@ -1,0 +1,29 @@
+
+state={
+	id=1063
+	name="STATE_1063"
+	manpower = 801076
+	
+	state_category = town
+
+	history={
+		owner = SOV
+		buildings = {
+			infrastructure = 3 #was: 5
+			arms_factory = 1
+		}
+		add_core_of = SOV
+		add_core_of = UKR
+		1939.1.1 = {
+			buildings = {
+				arms_factory = 1
+			}
+		}
+	}
+
+	provinces={
+		6445 9430 11434 11450 9488 11459
+	}
+
+	local_supplies=3.0 
+}

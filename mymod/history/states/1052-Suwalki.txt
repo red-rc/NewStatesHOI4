@@ -1,0 +1,21 @@
+state={
+	id=1052
+	name="STATE_1052"
+	provinces={
+		3254 
+	}
+	manpower=25379
+	history={
+		owner = POL
+		victory_points = {
+			3254 1
+		}
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = POL
+	}
+	buildings_max_level_factor=1
+	state_category=town
+	local_supplies=5
+}
