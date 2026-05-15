@@ -1,0 +1,24 @@
+state = {
+    id = 1082
+    name = "STATE_1082" # Kvarner
+    manpower = 427350
+
+    state_category = town
+
+    history = {
+        owner = YUG
+        add_core_of = YUG
+        add_core_of = CRO
+
+        buildings = {
+            infrastructure = 3
+            industrial_complex = 1
+        }
+    }
+
+    provinces = {
+        13252 3601 591 6611
+    }
+
+    local_supplies = 1.0 
+}
